@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Srinithi Ganesh</h1>
+<h1 align="center">Hi 👋, I'm Srinithin</h1>
 
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
